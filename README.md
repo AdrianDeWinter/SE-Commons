@@ -33,6 +33,8 @@ The ```MyGridProgram parent``` parameter contains a reference to the base ```Gri
 make sure to set the ```Implementation.mainOverridden``` or ```Implementation.saveOverridden``` fields to true, otherwise they will not be called by the parent ```Program``` class.
 
 ## Usage
+A template repository is available at [SE-ScriptTemplate](https://github.com/AdrianDeWinter/SE-ScriptTemplate).
+
 Below is a basic example of how to work with this Library:
 
 ```csharp
